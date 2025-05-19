@@ -2,6 +2,7 @@
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
 ## REGNO:212223043001
 ## NAME :GOPIKRISHNAN M
+## DATE :30-04-2025
 
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
